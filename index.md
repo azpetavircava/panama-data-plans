@@ -62,3 +62,10 @@ layout: default
 　　（*个人观察*：在巴拿马运河观景台，一位大叔举着最新款旗舰机抱怨没信号，旁边用着中端机的小姐姐却刷视频刷得飞起。频段兼容这事儿，有时真不看价格贵贱。）
 
 ## 五、 关键注意事项：花钱买来的
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Panama SIM 卡购买与激活指南](https://faciylike.github.io/panama-sim-guides)
